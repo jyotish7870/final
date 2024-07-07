@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/mnt/CA1CEA571CEA3E57/c++",
-      "program": "/mnt/CA1CEA571CEA3E57/c++/build/Debug/outDebug",
+      "cwd": "/mnt/CA1CEA571CEA3E57/c++/.vscode/RECURSION",
+      "program": "/mnt/CA1CEA571CEA3E57/c++/.vscode/RECURSION/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
